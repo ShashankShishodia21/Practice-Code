@@ -18,8 +18,8 @@
 .nav p {
     display: inline-block;
     border-radius: 25px;
-    font-size: 1.5em;
-    padding: 5px;
+    font-size: 1.6em;
+    padding: 4px;
     color: black;
 }
 .nav p:hover{
@@ -33,7 +33,7 @@
 .Left-nav {
     background-color: black;
     text-align: center;
-    font-size: 2em;
+    font-size: 3em;
     padding: 5px 279px 5px 200px;
     color: rgba(255, 162, 0, 0.936);
 }
