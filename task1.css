@@ -18,7 +18,8 @@
 .nav p {
     display: inline-block;
     border-radius: 25px;
-    font-size: 1.6em;
+    font-size: 1.5em;
+    font-weight: 200;
     padding: 4px;
     color: black;
 }
